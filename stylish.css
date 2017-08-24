@@ -1,0 +1,8 @@
+@-moz-document url-prefix('https://www.youtube.com/watch') {
+  #masthead-container.ytd-app {display: none; } 
+  #page-manager.ytd-app {margin-top: 0;} 
+  #top.ytd-watch {margin-top: 0;}
+  #yt-masthead-container, #a11y-announcements-container, #masthead-positioner-height-offset {
+    display:none;
+  }
+}
