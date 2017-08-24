@@ -8,4 +8,4 @@
 // @version     1.0.0 
 // ==/UserScript==
 
-GM_addStyle("#masthead-container.ytd-app {display: none; } #page-manager.ytd-app {margin-top: 0;} ");
+GM_addStyle("#masthead-container.ytd-app {display: none; } #page-manager.ytd-app {margin-top: 0;} #top.ytd-watch {margin-top: 0;}");
