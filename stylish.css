@@ -5,4 +5,11 @@
   #yt-masthead-container, #a11y-announcements-container, #masthead-positioner-height-offset {
     display:none;
   }
+  .watch-stage-mode .player-width {
+    margin-left: 0;
+}
+  .watch-stage-mode .player-width {
+    width: 854px;
+    left: 0px;
+}
 }
